@@ -4,3 +4,6 @@ This project used javascript to make a password generator that has a series of p
 These prompts are how long we want the password to be, as well as whether we want upper and lowercase letters and if we want symbols and numbers.
 
 The function which writes the password is started once the red ‘generate password’ button is clicked.
+
+
+https://lukestano22.github.io/Password-Generator/
