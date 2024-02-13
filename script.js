@@ -23,7 +23,7 @@ function writePassword() {
       charPrompt();
     } else if (char >= 8 && char <= 128) {
       passwordLength = char;
-    } else if (char !>= 8 || char !<=128){
+    } else if (isNaN(char)){
       window.alert("You can only enter the number amount.");
       charPrompt();
     }
